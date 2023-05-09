@@ -73,7 +73,10 @@
   },
   "dependencies": {
     "@astrojs/webapi": "workspace:*",
-    "astro-benchmark": "workspace:*"
+    "@clerk/clerk-react": "^4.15.4",
+    "@clerk/nextjs": "^4.17.2",
+    "astro-benchmark": "workspace:*",
+    "flag": "^5.0.1"
   },
   "devDependencies": {
     "@changesets/changelog-github": "0.4.8",
