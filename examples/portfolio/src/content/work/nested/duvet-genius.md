@@ -1,7 +1,7 @@
 ---
 title: Duvet Genius
 publishDate: 2020-03-04 00:00:00
-img: /assets/stock-3.jpg
+img: /assets/AAA8FE13-4952-4040-A096-06F93213DBAF.gif
 img_alt: Pearls of silky soft white cotton, bubble up under vibrant lighting
 description: |
   We developed a virtual showcase for the softest bedding imaginable.
