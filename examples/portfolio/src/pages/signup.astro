@@ -1,36 +1,15 @@
-import { SignUp } from '@clerk/clerk-react';
-           
-export default function Page() {
-  return <SignUp />;
+import { SignUp } from '@clerk/nextjs/app-beta'
+
+const Page = async () => {
+  return (
+    <section className='py-24'>
+      <div className='container'>
+        <div className='flex justify-center'>
+          <SignUp />
+        </div>
+      </div>
+    </section>
+  )
 }
 
-{
-    "baseTheme": {
-     "variables": {
-      "colorBackground": "#19191A",
-      "colorInputBackground": "#19191A",
-      "colorAlphaShade": "white",
-      "colorText": "white",
-      "colorInputText": "white"
-     },
-     "__type": "prebuilt_appearance"
-    },
-    "variables": {
-     "colorBackground": "#19191A",
-     "colorInputBackground": "#19191A"
-    },
-    "elements": {
-     "logoImage": {
-      "filter": "brightness(0) invert(1)"
-     },
-     "socialButtonsProviderIcon__github": {
-      "filter": "brightness(0) invert(1)"
-     },
-     "footer": {
-      "& + div": {
-       "background": "rgb(49, 49, 51)"
-      }
-     }
-    }
-   }
-   
+export default Page
