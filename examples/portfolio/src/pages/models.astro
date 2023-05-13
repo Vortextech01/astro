@@ -1,0 +1,72 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+import DemoEmbed from '../components/DemoEmbed.astro';
+import Hero from '../components/Hero.astro';
+---
+
+<BaseLayout title="AI Model Demo | Sapiens IA" description="Welcome to the Sapiens IA AI model demo.">
+	<div class="stack gap-20">
+		<main class="wrapper demo">
+			<Hero
+				title="AI Model Demo"
+				tagline="Welcome to the Sapiens IA AI model demo. Experience the power of our AI model below."
+			>
+				<img
+					width="1553"
+					height="873"
+					src="/assets/ai-model.jpg"
+					alt="AI model at work"
+				/>
+			</Hero>
+
+			<section>
+				<h2 class="section-title">AI Model</h2>
+				<DemoEmbed src="https://chat.sapiens-ia.com" />
+			</section>
+		</main>
+	</div>
+</BaseLayout>
+
+<style>
+	.demo {
+		display: flex;
+		flex-direction: column;
+		gap: 3.5rem;
+	}
+
+	img {
+		margin-top: 1.5rem;
+		border-radius: 1.5rem;
+		box-shadow: var(--shadow-md);
+	}
+
+	section {
+		display: flex;
+		flex-direction: column;
+		gap: 0.5rem;
+		color: var(--gray-200);
+	}
+
+	.section-title {
+		grid-column-start: 1;
+		font-size: var(--text-xl);
+		color: var(--gray-0);
+	}
+
+	@media (min-width: 50em) {
+		.demo {
+			display: grid;
+			grid-template-columns: 1fr 60% 1fr;
+		}
+
+		.demo > :global(:first-child) {
+			grid-column-start: 2;
+		}
+
+		section {
+			display: contents;
+			font-size: var(--text-lg);
+		}
+	}
+</style>
