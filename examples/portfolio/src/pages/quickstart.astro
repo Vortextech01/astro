@@ -1,17 +1,6 @@
-'use client'
 ---
 import Layout from '../components/Layout.astro';
-import { useUser } from '@clerk/nextjs'
-import { useRouter } from 'next/navigation'
 
-const Page = () => {
-  const { isLoaded, isSignedIn, user } = useUser()
-  const router = useRouter()
-
-  if (isLoaded && !isSignedIn) {
-    router.push('/sign-in?redirectUrl=/dashboard')
-  }
-  return (
 export const prerender = true;
 ---
 
