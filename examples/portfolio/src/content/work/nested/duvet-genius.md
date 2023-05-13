@@ -1,5 +1,5 @@
 ---
-title: Duvet Genius
+title: Assistants
 publishDate: 2020-03-04 00:00:00
 img: /assets/AAA8FE13-4952-4040-A096-06F93213DBAF.gif
 img_alt: Pearls of silky soft white cotton, bubble up under vibrant lighting
