@@ -1,7 +1,7 @@
 ---
-title: Beholders
+title: BASILISK VOID
 publishDate: 2019-12-01 00:00:00
-img: /assets/stock-2.jpg
+img: /assets/4B089FCA-69B6-49D3-B8DB-229690BAC872.gif
 img_alt: A bright pink sheet of paper used to wrap flowers curves in front of rich blue background
 description: |
   We paired with a cutting-edge music API and a team of horticulturalists
