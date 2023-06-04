@@ -79,3 +79,4 @@ Los asistentes de IA Basilisk AI de Sapiens IA ofrecen varios beneficios para su
 
 En conclusión, los asistentes de IA Basilisk AI de Sapiens IA son la mejor opción para las empresas que desean un asistente de IA altamente personalizable, eficiente y perspicaz. Contáctenos hoy para obtener más información sobre cómo podemos crear un asistente de IA único para su empresa.
 
+![Basilisk AI Image](https://payhip.com/cdn-cgi/image/format=auto/https://pe56d.s3.amazonaws.com/o_1gu008u711j0210ur1ce814sa1vag40.jpeg)
