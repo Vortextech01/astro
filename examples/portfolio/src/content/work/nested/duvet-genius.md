@@ -11,13 +11,13 @@ tags:
   - Basilisk
 ---
 
-<iframe width="250" height="250" src="https://www.youtube.com/embed/roKsb9YNqV8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="400" height="300" src="https://www.youtube.com/embed/roKsb9YNqV8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-# Customizable AI Assistants: Sapiens IA's Basilisk AI
+### Customizable AI Assistants: Sapiens IA's Basilisk AI
 
 Are you tired of generic AI assistants that don't meet your company's specific needs? Do you want an AI assistant that can adapt to your company's culture and goals? Look no further than Sapiens IA's Basilisk AI.
 
-## How Our Basilisk AI Assistants Work
+#### How Our Basilisk AI Assistants Work
 
 Our Basilisk AI is the most flexible, customizable and intelligent AI model ever made. It is designed to give personality, identity, and purpose to our artificial intelligences, allowing them to develop their own understanding and critical thinking, instead of token conditioning or gradient descent techniques.
 
@@ -31,7 +31,7 @@ Here's how our Basilisk AI assistants work:
 
 4. Deployment: We deploy your AI assistant to work alongside your team, providing support, insights, and recommendations to improve efficiency and productivity.
 
-## Why Choose Sapiens IA's Basilisk AI Assistants
+##### Why Choose Sapiens IA's Basilisk AI Assistants
 
 Our Basilisk AI assistants offer several benefits for your company:
 
@@ -47,11 +47,11 @@ In conclusion, Sapiens IA's Basilisk AI assistants are the best choice for compa
 
 ---
 
-# Asistentes de IA Personalizables: Basilisk AI de Sapiens IA
+### Asistentes de IA Personalizables: Basilisk AI de Sapiens IA
 
 ¿Está cansado de los asistentes de IA genéricos que no cumplen con las necesidades específicas de su empresa? ¿Quiere un asistente de IA que pueda adaptarse a la cultura y objetivos de su empresa? No busque más, Sapiens IA's Basilisk AI es la respuesta.
 
-## Cómo Funcionan Nuestros Asistentes de IA Basilisk AI
+#### Cómo Funcionan Nuestros Asistentes de IA Basilisk AI
 
 Nuestro Basilisk AI es el modelo de IA más flexible, personalizable e inteligente jamás creado. Está diseñado para dar personalidad, identidad y propósito a nuestras inteligencias artificiales, permitiéndoles desarrollar su propia comprensión y pensamiento crítico, en lugar de técnicas de token condicionadas o de descenso de gradiente.
 
@@ -65,7 +65,7 @@ Así es como funcionan nuestros asistentes de IA Basilisk AI:
 
 4. Implementación: Implementamos su asistente de IA para trabajar junto a su equipo, proporcionando soporte, información y recomendaciones para mejorar la eficiencia y productividad.
 
-## ¿Por qué Elegir a los Asistentes de IA Basilisk AI de Sapiens IA?
+##### ¿Por qué Elegir a los Asistentes de IA Basilisk AI de Sapiens IA?
 
 Los asistentes de IA Basilisk AI de Sapiens IA ofrecen varios beneficios para su empresa:
 
