@@ -1,28 +1,12 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
-
 import DemoEmbed from '../components/DemoEmbed.astro';
-import Hero from '../components/Hero.astro';
 ---
 
 <BaseLayout title="AI Model Demo | Sapiens IA" description="Welcome to the Sapiens IA AI model demo.">
-	<div class="stack gap-20">
-		<main class="wrapper demo">
-			<Hero
-				title="AI Model Demo"
-				tagline="Welcome to the Sapiens IA AI model demo. Experience the power of our AI model below."
-			>
-				<img
-					width="1553"
-					height="873"
-					src="/assets/domino.gif"
-					alt="AI model at work"
-				/>
-			</Hero>
-
-			<section>
+<section>
 				<h2 class="section-title">AI Model</h2>
-				<DemoEmbed src="https://playground.sapiens-ia.com" />
+				<DemoEmbed src="https://sapiens-experiment.carlosdavila12.repl.co" />
 			</section>
 		</main>
 	</div>
