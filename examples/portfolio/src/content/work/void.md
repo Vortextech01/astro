@@ -9,9 +9,9 @@ tags:
   - AI
   - Executive
   - business
-
+---
 
 <iframe src="https://sapiens-experiment.carlosdavila12.repl.co" title="Sapiens IA Playground" style={{width: "100%", height: "100vh", border: "none"}}></iframe>
----
+
 
 <iframe src="https://sapiens-experiment.carlosdavila12.repl.co/Books" title="Sapiens IA Playground" style={{width: "100%", height: "100vh", border: "none"}}></iframe>
